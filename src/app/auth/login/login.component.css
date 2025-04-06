@@ -1,0 +1,21 @@
+.login-card {
+    max-width: 400px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background-color: #2672ff;
+  }
+  
+  .full-width {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+  
+  button {
+    width: 100%;
+    background-color: #f51414;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+

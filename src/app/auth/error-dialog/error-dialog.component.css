@@ -1,0 +1,37 @@
+mat-dialog-container {
+    border-radius: 8px; 
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); 
+    padding: 20px; 
+    background-color: #c8dfff; 
+    max-width: 300px;
+    margin: auto;
+  }
+  
+  
+  mat-dialog-content {
+    font-size: 20px; 
+    text-align: center; 
+    color: #000000; 
+    margin-bottom: 15px; 
+  }
+  
+  mat-dialog-actions {
+    display: flex;
+    justify-content: right; 
+    margin: 0;
+  }
+  
+  button {
+    font-size: 14px; 
+    padding: 8px 16px; 
+    border-radius: 4px;
+    background-color: #d79191; 
+    color: white !important; 
+    border: none; 
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #d46b6b; 
+    color: white;
+  }
